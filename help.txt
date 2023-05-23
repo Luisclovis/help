@@ -1,0 +1,66 @@
+General
+	(command) | less
+	-scroll throught terminal and /(word) for search
+	
+	zsh
+	-fancy terminal
+
+	cat > (file.fl)
+	-create a file
+
+	cat file.fl
+	-open the file
+
+	echo $0
+	-terminal in use
+
+	ls -la
+	-list all directories and files
+
+	ctrl+l 
+	-clean terminal screen
+	zsh
+	-fancy terminal
+
+	cat > (file.fl)
+	-create a file
+
+	cat file.fl
+	-open the file
+
+	echo $0
+	-terminal in use
+
+	ls -la
+	-list all directories and files
+
+	ctrl+l 
+	-clean terminal screen
+
+	cd ~
+	-home for the user
+	
+	/root
+	-user root home
+
+	/home/arch
+	-arch user home
+
+	su -
+	-login as root
+
+	su - arch
+	-login as arch
+Vim
+	y
+	-copy
+
+	p
+	-paste
+
+	d
+	-delete
+
+	>
+	-indent
+
