@@ -63,4 +63,7 @@ Vim
 
 	>
 	-indent
+pacman
+	pacman -Q
+	-list packages installed
 
