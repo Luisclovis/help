@@ -67,3 +67,8 @@ pacman
 	pacman -Q
 	-list packages installed
 
+	--- Install all dependencies of a package with pacman ---
+	$ sudo pacman -Syu
+	It may fail with error like Failed to Import PGP key or something like that, to solve it I run:
+	$ sudo pacman -Sy archlinux-keyring
+
